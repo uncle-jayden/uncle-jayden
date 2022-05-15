@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uncle Jayden</h1>
 <h3 align="center">Still learning on programming</h3>
 
-- 🌱 I’m currently learning **Unity, Python and WebSite**
+- 🌱 I’m currently learning **Unity, Python and HTML/CSS/JS**
 
 - 📫 How to reach me **info@unclejayden.xyz**
 
